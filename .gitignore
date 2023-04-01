@@ -2,6 +2,7 @@
 __pycache__/
 /.idea
 
+pyproject.toml
 # 檔案
 *.pyc
 *.py
