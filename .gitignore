@@ -3,6 +3,7 @@ __pycache__/
 /.idea
 
 pyproject.toml
+poetry.lock
 # 檔案
 *.pyc
 *.py
